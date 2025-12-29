@@ -14,7 +14,3 @@ It provides:
 - Support for categorical, relational, and distribution plots
 
 ---
-
-## 📂 Repository Structure
-This repo will keep growing as I add new notebooks and examples. Current and upcoming files include:
-
