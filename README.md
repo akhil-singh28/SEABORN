@@ -1,4 +1,4 @@
-# Seaborn
+# Seaborn![Seaborn Logo](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
 
 Seaborn is a **Python data visualization library** built on top of **Matplotlib**. It provides a high-level interface for drawing attractive, informative, and statistical graphics with minimal code.
 
