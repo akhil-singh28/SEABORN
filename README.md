@@ -1,16 +1,23 @@
-# 📊 Seaborn Visualization Repository
+# Seaborn
 
-This repository is my **learning and experimentation space** for mastering data visualization with **Seaborn** (built on top of Matplotlib).  
-It will gradually expand with multiple Jupyter notebooks, datasets, and examples as I explore different plot types, styles, and techniques.
+Seaborn is a **Python data visualization library** built on top of **Matplotlib**. It provides a high-level interface for drawing attractive, informative, and statistical graphics with minimal code.
+
+---
+
+## 📌 Features
+
+- Built-in themes for beautiful visualizations
+- Works seamlessly with **Pandas DataFrames**
+- High-level API for complex statistical plots
+- Automatic handling of confidence intervals and distributions
+- Supports categorical, relational, and distribution plots
+- Fully compatible with Matplotlib for customization
 
 ---
 
-## 🚀 About Seaborn
-[Seaborn](https://seaborn.pydata.org/) is a Python library that makes it easy to create **beautiful and informative statistical graphics**.  
-It provides:
-- High-level plotting functions (`sns.lineplot`, `sns.boxplot`, `sns.heatmap`, etc.)
-- Built-in themes and color palettes
-- Tight integration with Pandas DataFrames
-- Support for categorical, relational, and distribution plots
+## 📦 Installation
 
----
+Install Seaborn using `pip`:
+
+```bash
+pip install seaborn
