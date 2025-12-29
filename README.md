@@ -23,12 +23,12 @@ pip install seaborn
 
 ```
 
-🤝 Contributions
+## 🤝 Contributions
 This is primarily a self-learning project, but contributions are welcome!
 If you’d like to add more visualization examples (line plots, stacked bars, heatmaps, etc.), feel free to fork the repo and submit a pull request.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
-⭐ Support
+## ⭐ Support
 If you find this helpful, don’t forget to star ⭐ the repository to support my learning journey!
