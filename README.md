@@ -17,8 +17,7 @@ Seaborn is a **Python data visualization library** built on top of **Matplotlib*
 
 ## 📦 Installation
 
-Install Seaborn using `pip`:
-
+INSTALL SEABORN USING pip
 ```bash
 pip install seaborn
 
